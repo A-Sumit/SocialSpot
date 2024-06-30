@@ -22,4 +22,4 @@ To run the application, follow these steps:
 
 <br/>
 Visit the website
- <a  href="https://SocialSpot.onrender.com">click here</a>
+ <a  href="https://socialspot-zvw7.onrender.com">click here</a>
